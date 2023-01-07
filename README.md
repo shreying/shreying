@@ -7,13 +7,15 @@ Here are some ideas to get you started:-->
 
 - Hi! I’m Shreya :D
 - I'm currently an undergrad student in VIT 
-- 🌱 I’m currently learning 
-      - Frontend stack (HTML, CSS, JavaScript) 
-      - C++
-      - UI/UX
-      - and exploring various domains
-- Hobbies:
-      - Painting and sketching
-      - Music (learning instruments)
-      - OpenSource
+- 🌱 I’m currently learning <ul> 
+      <li>Frontend stack (HTML, CSS, JavaScript) </li> 
+      <li>C++ </li>
+      <li>UI/UX </li>
+      <li>and exploring various domains</li>
+      </ul>
+- Hobbies:<ul>
+      <li>Painting and sketching </li>
+      <li>Music (learning instruments) </li>
+      <li>OpenSource </li>
+      </ul>
 
