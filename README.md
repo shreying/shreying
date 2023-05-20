@@ -7,14 +7,14 @@ Here are some ideas to get you started:-->
 
 <h1 align="center">Hi 👋, I'm Shreya Sahu</h1> <h3 align="center">A passionate developer from India</h3> <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreying&label=Profile%20views&color=0e75b6&style=flat" alt="shreying" /> </p> 
 <div>🔭 I’m currently working on <b>exploring various domains.</b> </div>
-<div>🌱 I’m currently learning <b>JavaScripts, Flutter, Dart.</b> </div>
-<div>🤝 I’m looking for help with <b>learning new stacks.</b> </div>
+<div>🌱 I’m currently learning <b>JavaScript and MERN stack.</b> </div>
+<div>🤝 I’m looking for help with <b>making meaningful contributions in open-source.</b> </div>
 <div>📝 I regularly write articles on https://shreyasahu.hashnode.dev/ </div>
 <div>💬 Ask me about <b>Python, HTML5, CSS3</b> </div>
-<div>⚡ Fun fact <b>I know a lots of trivial facts about rodents!</b> </div>
+<div>⚡ Fun fact <b>I am also interested in UI/UX design!</b> </div>
 <h3 align="left">Connect with me:</h3> 
 <p align="left"> 
-      <a href="https://twitter.com/shreyciphers" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shreyciphers" height="30" width="40" /></a> 
+      <a href="https://twitter.com/shreying" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shreyciphers" height="30" width="40" /></a> 
       <a href="https://linkedin.com/in/shreya-sahu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shreya-sahu" height="30" width="40" /></a>
       <a href="https://hashnode.com/@shreyclouds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@shreyclouds" height="30" width="40" /></a> </p> 
 
